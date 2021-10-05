@@ -3,3 +3,4 @@
 Data, Data Analysis and Plotting associated with the manuscript "A lift in snail’s gut provides an efficient colonization route for tardigrades"
 by Vuori T., Calhim S., and Vecchi M.
 
+![Figure](Figure.tiff)
