@@ -4,3 +4,4 @@ Data, Data Analysis and Plotting associated with the manuscript "A lift in snail
 by Vuori T., Calhim S., and Vecchi M.
 
 ![Figure](Figure.tiff)
+<img src="Figure.tiff" width="100" height="100"
