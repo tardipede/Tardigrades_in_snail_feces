@@ -9,4 +9,4 @@ by Vuori T., Calhim S., and Vecchi M.
     + **survival.txt**: The raw data from the laboratory feeding experiment
     + **script.R**: R script to analyze the data and crete the plots presented in the paper
     + **README.md**:  This README file
-    + **Figure-png**: The source file for the figure showed in the README file
+    + **Figure.png**: The source file for the figure showed in the README file
