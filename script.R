@@ -126,3 +126,13 @@ plot_final = (plot_wild|plot_experiment|plot_reproduction) + plot_layout(widths 
 ggsave(plot_final,filename = "plot.jpg",width = 40,height = 20, units = "cm", dpi = 300)
 ggsave(plot_final,filename = "plot.svg",width = 40,height = 20, units = "cm", dpi = 300)
 
+
+### ADDITIONS AFTER REVIEW ###
+# After the first review round we added a statistical comparison between different survival rates between tardigrades in wild vs. experiment snails
+# And comparison with the same results, but for miter sor Tukce et al., 2018 (we used data from this paper supplementary material)
+
+prop.test(c(5,120),c(10,172)) # alive/total tardigrades vs. mites in feces of wild animals
+prop.test(c(218,40),c(269,69)) # alive/ingested tardigrades vs. mites in feces of experiment animals
+prop.test(c(5,218),c(10,296)) # alive/total expelled tardigrades in wild vs. lab snails
+
+
